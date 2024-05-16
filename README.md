@@ -1,6 +1,6 @@
 # Pangenomics
 A tool software that allows users to build their own database and provide visualization of genomic collinearity, genomic structural variation and pangene families.
-## Example_Genomic collinearity
+## Example
 
 <div algin="center">
   <img src="https://github.com/Kai-Maker1/Pangenomics/images/example.png" width=100% height=25%>
