@@ -3,7 +3,7 @@ A tool software that allows users to build their own database and provide visual
 ## Example
 
 <div algin="center">
-  <img src="[https://github.com/Kai-Maker1/Pangenomics/images/example.png](https://github.com/Kai-Maker1/Pangenomics/blob/main/images/example.png)" width=100% height=25%>
+  <img src="https://github.com/Kai-Maker1/Pangenomics/blob/main/images/example.png" width=100% height=25%>
 </div>  
 
 ## Installation
